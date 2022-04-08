@@ -11,7 +11,8 @@
 %Branch são versões diferente do sistema 
 
 %Commit quando faz alterações, cria arquivos novos, deletando arquivos explicar oque foi feito sempre quando commitar 
-----------------------------------------------------------------------------------------------------------------------------
+
+---
 
 ```
 git config --global user.name "Johnny"
@@ -116,24 +117,25 @@ git (fetch ou push) -u origin master
 ```
 ##### Vai tranferir o arquivos para repositório da forma do destino '-u' => Complemento do comando 'origin' => Destino do repositório 'master' => Qual o branch que 
 vou enviar do meu repositório
+
 ---
 
 ```
 cd C:
 ```
-##### $Vai entrar na pasta principal do computador.
+##### ```$Vai entrar na pasta principal do computador.```
 
 ```
 cd (DIRETÓRIO)
 ```
-##### $Vai ir até a pasta solicitada.
+##### ```$Vai ir até a pasta solicitada.```
 
 ```
 cd ..
 ```
-##### $Volta o diretório.
+##### ```$Volta o diretório.```
 
 ```
 mkdir__
 ```
-##### $Vai criar uma pastas com o nome de sua escolha.
+##### ```$Vai criar uma pastas com o nome de sua escolha.```
